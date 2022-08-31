@@ -8,4 +8,6 @@
 
 // require("./03-path");
 
-require("./04-fs-sync");
+// require("./04-fs-sync");
+
+require("./05-fs-async");
