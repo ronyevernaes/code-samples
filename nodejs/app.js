@@ -10,4 +10,6 @@
 
 // require("./04-fs-sync");
 
-require("./05-fs-async");
+// require("./05-fs-async");
+
+// require("./06-http");
