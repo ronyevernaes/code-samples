@@ -2,6 +2,10 @@
 
 This project is an implementation of [this mock](https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0%3A129).
 
+The current implementation of course is about myself =D
+
+![Screenshot](./docs/screenshot.png)
+
 This project also was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
