@@ -1,10 +1,12 @@
 # NodeJS
 
-1. Modules
-2. OS
-3. Path
-4. File Sync
-5. File Aync
-6. HTTP
+Contains samples for:
+
+1. CommonJS Modules
+2. NodeJS OS Module
+3. NodeJS Path Module
+4. NodeJS File Sync Module
+5. NodeJS File Aync Module
+6. NodeJS HTTP Module
 
 WIP
